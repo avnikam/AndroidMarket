@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was created and hosted by datacamp [here(https://learn.datacamp.com/projects/619)]. 
+This project was created and hosted by datacamp here: https://learn.datacamp.com/projects/619). 
 
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this project, you will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. You'll look for insights in the data to devise strategies to drive growth and retention.
 
